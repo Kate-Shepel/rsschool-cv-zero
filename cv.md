@@ -5,6 +5,7 @@
 * E-mail: kateborichevskaya@gmail.com 
 * Telegram: @kate_shepelenko 
 * Skype: kate.borichevskaya 
+* Discord: Kate Shepel#3130
 
 ## About Myself
 I've spent 5 eventful years in a travel industry. At first, I was working in a travel agency being responsible for 5 visa departments and after that I've spent a few years working as a travel specialist in IT company developing my skills in business trips organisation process. It was unforgettable experience! 
