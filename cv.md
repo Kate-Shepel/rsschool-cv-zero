@@ -30,5 +30,10 @@ function multiply(a, b){
 * Belarus State Economic University
     + Management and economics
 
+* Courses
+    + HTML and CSS on [ru.code-basics.com](https://ru.code-basics.com "HTML and CSS courses")
+    + Web-developer 2022 on [Udemy](https://www.udemy.com/course/webdeveloper/ "Web developer course") (in progress)
+    + Rolling Skopes Course «JavaScript/Front-end. Stage 0» (in progress)
+
 ## English language
 B2 level (everyday practice during the working week)
